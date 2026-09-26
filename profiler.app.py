@@ -1,5 +1,5 @@
 # PROFILER DB PARSER BY DRAK0N
-# https://github.com/MirasakaDrakon
+# https://github.com/antikorskiy
 import queue
 import os
 import re
